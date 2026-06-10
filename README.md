@@ -17,7 +17,7 @@ O **Arkiva** é um aplicativo Android de organização pessoal.
 
 Para dúvidas sobre esta Política de Privacidade, entre em contato pelo e-mail:
 
-**[INSERIR E-MAIL DE CONTATO]**
+**lagartixadev@gmail.com**
 
 ---
 
@@ -242,7 +242,7 @@ Recomendamos que você revise esta Política periodicamente.
 
 Em caso de dúvidas, solicitações ou comentários sobre esta Política de Privacidade, entre em contato:
 
-**[INSERIR E-MAIL DE CONTATO]**
+**lagartixadev@gmail.com**
 
 ---
 
